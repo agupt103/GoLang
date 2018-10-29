@@ -5,11 +5,11 @@ import (
 )
 
 const (
-	PI       = 3.142
+	Pi       = 3.142
 	Language = "GoLang"
 )
 
 func main() {
-	fmt.Println(PI)
+	fmt.Println(Pi)
 	fmt.Println(Language)
 }
