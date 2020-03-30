@@ -8,7 +8,7 @@ var y int
 
 func main() {
 
-	y := int(x)
+	y = int(x)
 	fmt.Println(y)
 	fmt.Printf("%T\n",y)
 }
